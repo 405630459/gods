@@ -42,8 +42,8 @@ func main() {
 	//     3
 	// 4
 	//     5
-	//     6
-
+	//6
+	//     7
 	tree.Clear() // empty
 	tree.Empty() // true
 	tree.Size()  // 0
